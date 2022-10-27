@@ -1,0 +1,8 @@
+{
+  "name": "Anna",
+  "surname": "Karenina",
+  "school": "Harvard",
+  "yearOfStudy": 2,
+  "lastSessionPassed": true,
+  "subjects": ["Math", "English", "Data Base", "Algorithms", "Computer programming"]
+}
